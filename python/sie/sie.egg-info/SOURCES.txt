@@ -1,0 +1,11 @@
+README.md
+setup.py
+sie/Struct.py
+sie/__init__.py
+sie/mcmc.py
+sie/sie.mplstyle
+sie/sie.py
+sie.egg-info/PKG-INFO
+sie.egg-info/SOURCES.txt
+sie.egg-info/dependency_links.txt
+sie.egg-info/top_level.txt
